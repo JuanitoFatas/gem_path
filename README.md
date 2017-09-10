@@ -1,5 +1,7 @@
 # GemPath
 
+[![Build Status](https://travis-ci.org/JuanitoFatas/gem_path.svg?branch=master)](https://travis-ci.org/JuanitoFatas/gem_path)
+
 Find where a gem is located.
 
 ## Installation
